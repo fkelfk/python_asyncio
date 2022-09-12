@@ -1,0 +1,21 @@
+# python version: Python 3.9.12
+
+black @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d614fw2iny/croots/recipe/black_1660237811168/work
+certifi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_884c889c-96af-444f-bd6d-daddb5e9a462ykj3l5n_/croots/recipe/certifi_1655968814730/work/certifi
+click @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-quwchbn8/click_1646123324461/work
+flake8 @ file:///opt/conda/conda-bld/flake8_1648129545443/work
+Flask==2.2.2
+importlib-metadata @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-5pqd2z6f/importlib-metadata_1648710902288/work
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
+mypy-extensions==0.4.3
+pathspec @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d03rc9hjjh/croots/recipe/pathspec_1659627124886/work
+platformdirs @ file:///tmp/build/80754af9/platformdirs_1638968569495/work
+pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
+pyflakes @ file:///tmp/build/80754af9/pyflakes_1636644436481/work
+tomli @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d0e5ffbf-5cf1-45be-8693-c5dff8108a2awhthtjlq/croots/recipe/tomli_1657175508477/work
+typing_extensions @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_27esv8zrkq/croots/recipe/typing_extensions_1659638827591/work
+Werkzeug==2.2.2
+zipp @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_66c2c5f2-5dd5-4946-a16a-72af650ebd6cnmz4ou0f/croots/recipe/zipp_1652343960956/work
