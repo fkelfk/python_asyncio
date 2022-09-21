@@ -19,8 +19,8 @@ VPS : 가상 사설 서버 구축
 6. sudo apt-get install build-essential
 7. sudo apt-get install curl git vim python3 python3-pip
 8. touch .gitconfig
-9. git config --global user.name amamov
-10. git config --global user.email amamov@kakao.com
+9. git config --global user.name atesi
+10. git config --global user.email atesi@email.com
 11. git config --global --list
 12. git clone <프로젝트>
 13. cd <프로젝트>
